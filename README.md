@@ -15,6 +15,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
