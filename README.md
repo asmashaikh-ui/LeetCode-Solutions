@@ -32,4 +32,16 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
