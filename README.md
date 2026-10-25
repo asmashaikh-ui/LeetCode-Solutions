@@ -35,6 +35,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -44,4 +45,16 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
