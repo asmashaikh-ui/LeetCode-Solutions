@@ -57,6 +57,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -75,10 +77,12 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
