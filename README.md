@@ -55,6 +55,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0100-same-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -65,6 +66,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0100-same-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -75,6 +77,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0100-same-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
@@ -82,6 +85,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
