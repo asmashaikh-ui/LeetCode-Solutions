@@ -20,10 +20,12 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -71,6 +74,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -83,12 +87,14 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Backtracking
 |  |
@@ -98,4 +104,8 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
