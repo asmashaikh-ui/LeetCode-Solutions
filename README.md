@@ -60,6 +60,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -88,6 +89,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -111,6 +113,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
