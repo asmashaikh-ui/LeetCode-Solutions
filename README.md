@@ -35,6 +35,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0110-balanced-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -89,6 +91,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0110-balanced-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -121,4 +124,8 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
