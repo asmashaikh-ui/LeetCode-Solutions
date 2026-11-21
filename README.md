@@ -65,6 +65,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -78,6 +79,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0257-binary-tree-paths](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -94,6 +96,7 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -117,4 +120,5 @@ My LeetCode solutions in Java, focusing on data structures, algorithms, and prob
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/asmashaikh-ui/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
