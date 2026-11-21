@@ -44,15 +44,4 @@ class Solution {
                
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
-
-    // int TotalNodes(TreeNode root){
-
-    //     if(root.left==null){
-    //         return maxNodes;
-    //     }
-    //     if(root.right==null){
-    //         return --maxNodes;
-    //     }
-    //     return TotalNodes(root.right);
-    // }
 }
